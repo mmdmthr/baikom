@@ -1,17 +1,5 @@
-# hello_flutter
+# Baikom
 
-A new Flutter project.
+Baikom is a lightweight bicycle computer app designed to turn your smartphone into a reliable cycling companion. It provides essential ride metrics, GPS tracking, and offline mapping to help cyclists navigate and track their rides without relying on dedicated cycling hardware.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The name **Baikom** is a play on "Bike Computer" combined with the Indonesian word *baik*, meaning "good" — reflecting the goal of making cycling technology accessible, practical, and enjoyable.
